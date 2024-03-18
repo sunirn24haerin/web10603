@@ -1,0 +1,1607 @@
+<!DOCTYPE HTML> 
+<html lang="ko">
+	<head>		
+		<!--[if IE 7]><html class="no-js ie7"><![endif]-->
+		<!--[if IE 8]><html class="no-js ie8"><![endif]-->
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1"> 
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
+		<!-- 페이스북 제목 -->
+<meta property="og:title" content="뽀롱뽀롱 뽀로로 (뽀롱뽀롱 뽀로로)" />
+	<!-- 페이스북 썸네일 -->	
+<meta property="og:image" content="http://static.ebs.co.kr/images/public/courses/2023/08/25/15/BA0AA000000000020/525a0083-9db9-4e25-bae0-468187558f02.jpg" />
+	<!-- 페이스북 내용 -->
+<meta property="og:description" content="이야기는 세상이 온통 눈과 얼음으로 뒤덮여있는 사람이라고는 전혀 살지않는 것으로 보이는 어느 이름 모를 섬의 작은 숲속 마을, 그 곳에 살고있는 호기심 많은 말썽꾸러기 펭귄 뽀로로..." />
+	<!-- 페이스북 URL -->
+<meta property="og:url" content="https://home.ebs.co.kr/pororo/etc/1/cast" /><!-- 파비콘 -->
+<link rel="shortcut icon" type="image/x-icon" href="https://static.ebs.co.kr/bhp/favicon/favicon.ico" />
+	<title>뽀롱뽀롱 뽀로로 | TV - 전 국민의 평생학교 EBS</title>
+		<!-- 반응형 적용(009) -->
+				<link rel="stylesheet" href="/common/css/rwd/jquery-ui-1.9.0.custom.min.css" type="text/css"/>
+<link rel="stylesheet" href="/common/css/rwd/nomalize.css" type="text/css" />
+<link rel="stylesheet" href="/common/css/rwd/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="/common/css/rwd/slick.css" type="text/css" />
+<link rel="stylesheet" href="/common/css/rwd/rwd_common.css" type="text/css" />
+<link rel="stylesheet" href="/common/css/rwd/rwd_layout.css" type="text/css" />
+<link rel="stylesheet" href="/common/css/rwd/rwd_contents.css" type="text/css" />
+<link rel="stylesheet" href="/common/css/rwd/rwd_admin.css" type="text/css" />
+<!-- Date Picker -->
+<link type="text/css" rel="stylesheet" href="/common/js/ui-lightness/jquery-ui-1.9.0.custom.min.css" />
+<!-- Color Picker -->
+<link type="text/css" rel="stylesheet" href="/common/js/jquery-miniColors/jquery.miniColors.css" />
+
+<link rel="stylesheet" href="/common/css/rwd/rwd_sub.css?v20210402" type="text/css" />
+				<script type="text/javascript" src="/common/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/common/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/common/js/slick.min.js"></script>
+<script type="text/javascript" src="/common/js/rwd/rwd_common.js?v0901"></script>
+<script type="text/javascript" src="/common/js/rwd/ios10_zoom.js"></script>
+
+<script type="text/javascript" src="/common/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/common/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/common/js/jquery.ui.mouse.js"></script>
+<script type="text/javascript" src="/common/js/jquery.ui.sortable.js"></script>
+<script type="text/javascript" src="/common/js/validate.js"></script>
+<script type="text/javascript" src="/common/js/bhp/bhp.core.js"></script>
+<script type="text/javascript" src="/common/js/bhp/bhp.ui.js?v=20181031"></script>
+<script type="text/javascript" src="/common/js/sp/sp.common.js"></script>
+
+<!-- Smart Editor -->
+<script type="text/javascript" src="/common/js/se2_custom/js/HuskyEZCreator.js" charset="utf-8"></script>
+<!-- Date Picker -->
+<script type="text/javascript" src="/common/js/jquery-datePicker/jquery.ui.datepicker.js"></script> 
+<!-- Color Picker -->
+<script type="text/javascript" src="/common/js/jquery-miniColors/jquery.miniColors.js"></script>
+<!-- SNS Auth / Send -->
+<script type="text/javascript" src="/common/js/api/board/kakao.min.js?v=1.24.0"></script>
+<script type="text/javascript" src="/common/js/api/board/board.js?v=20180731"></script>
+<script type="text/javascript" src="/common/js/jquery.MultiFile.js"></script>
+<script type="text/javascript" src="/common/js/ajaxfileupload.js"></script>
+<script type="text/javascript" src="/common/js/common.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
+<script type="text/javascript" src="/common/roadZipcode/daumRoadName.js"></script>
+<script type="text/javascript">
+if (typeof hmpId == 'undefined') {
+	hmpId = hmpId = location.pathname.split('/')[1];
+}
+</script>
+</head>
+	<body>
+	
+<script type="text/javascript">
+	// 변수들은 jsp 파일에 존재해야함
+	var DatyA1 = "shareKakaostory('https://home.ebs.co.kr/pororo/index');return false;";				
+	var DatyA2 = "shareFacebook2('https://home.ebs.co.kr/pororo/index');return false;";				
+	var DatyA3 = "shareBand('뽀롱뽀롱 뽀로로https://home.ebs.co.kr/pororo/index', 'https://home.ebs.co.kr/pororo/index');return false;";
+	var DatyA4 = "shareNaverBlog('https://home.ebs.co.kr/pororo/index','뽀롱뽀롱 뽀로로');return false;";
+	var DatyA5 = "shareTwitter('https://home.ebs.co.kr/pororo/index', '뽀롱뽀롱 뽀로로');return false;";
+	var DatyA6 = "shareKakaoTalk('https://home.ebs.co.kr:443/pororo/etc/1/cast','뽀롱뽀롱 뽀로로');return false;";
+	var DatyA7 = "shareNaverLine('https://home.ebs.co.kr/pororo/index','뽀롱뽀롱 뽀로로');return false;";
+</script>		
+	
+	<!-- 10-17 비쥬얼 bg관련 시작 -->
+	<style>
+		.visual_wrap{background:#F0C6DF url(https://static.ebs.co.kr/images/bhp/pororo/images/2023/08/25/15/7/23/8f9ecaa4-0dfc-4ba3-83fe-f099177fb85c.png) no-repeat 0 0;background-position:top center}
+		@media screen and (max-width: 750px){
+		.visual_wrap {width:100%;padding-top:80%;background:#F0C6DF url(https://static.ebs.co.kr/images/bhp/pororo/images/2023/08/25/15/45/12/f01520ef-708b-479d-b5f8-e309d085e23a.jpg) no-repeat 0 0;background-size:cover;background-position:top center}
+		.main_contents {top:241px;padding-bottom:241px;}
+		}
+	</style>
+	<!-- //10-17 비쥬얼 bg관련 끝 -->
+		<div class="sub_wrap ">
+				<div style="background:#F0C6DF;"><!-- 10-14 bg 컬러 주는곳 위치 변경 -->
+				<!-- 10-14 수정 공통 상단 비쥬얼 시작 -->
+				<div class="visual_wrap app">
+					
+				</div> 
+				<!-- // 10-14 수정 공동 상단 비쥬얼 끝 -->
+			<!-- header 시작 -->
+			<!-- 구글애널리틱스 스크립트 삭제 및 구글태그매니저 스크립트 삽입요청 / 2024.01.03 / EBSM20240103164895 -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLRHL9NX');</script>
+<!-- End Google Tag Manager -->
+<script>
+$(document).ready(function(){
+	if(!$.cookie("layer_evtPrzwPopup")){
+			$('#popLi').show();
+	}
+/* 불량회원 팝업 원복
+	if(!$.cookie("layer_badMmbPopup")){
+		$('#popLi2').show();
+	} */
+});
+
+</script>
+<div id="Header">
+					<div class="container">
+						<div id="global" class="area_global">
+							<div class="area_util">
+								<ul>
+									<li>
+										<a href="https://www.ebs.co.kr">
+											<img src="/common/images/global/head_util_ebsmain2.gif" alt="EBS메인" class="pc-block">
+											<img src="/common/images/global/head_util_ebsmain2t.gif" alt="EBS메인" class="mot-block">
+										</a>
+									</li>
+								</ul>
+							</div>
+							<div class="area_gnb">
+								<ul>
+									<!-- LOGIN -->
+									<li class="first_child" >
+										<a href="#none" onclick="loginAct();return false;">로그인</a>
+										</li>
+									<li class="subc">
+										<a href="https://www.ebs.co.kr/package/freeticket?mainTop">구독하기</a>
+									</li>
+									<li><a href="https://www.ebs.co.kr/mypage">마이페이지</a><span class="attach"><span class="slash">/</span><a href="https://www.ebs.co.kr/mypage/order/basket/list">장바구니</a></span></li>
+									<li><a href="https://www.ebs.co.kr/customer">고객센터</a></li>
+									<li class="form form1 pc-block">
+										<form id="totalSrchfrm" name="totalSrchfrm" action="https://www.ebs.co.kr/search">
+											<fieldset>
+												<legend>통합검색</legend>
+												<label for="searall" class="remove">검색어</label>
+												<input type="text" id="searall" name="query" class="intxt_searall txt_type" style="width:97px;">
+												<input type="image" src="/common/images/global/btn_sear.gif" alt="검색">
+											</fieldset>
+										</form>
+									</li>
+									<li class="form form2">
+										<fieldset>
+											<legend>사용자 즐겨찾기</legend>
+											<select id="selFavorite" name="selFavorite" onchange="goFavorite(this.value);" title="사용자 즐겨찾기">
+												<option value="">구독목록</option>
+												</select>
+										</fieldset>
+									</li>
+									<li class="more more2 pc-block">
+										<a href="#" onclick="$('.more_box').toggle(); return false;"><img src="/common/images/global/head_util2_more.gif" alt="더보기"></a>
+										<div id="pcMoreBox" class="more_box" style="display:none;">
+											<div>
+								<ul>
+									<li class="more_category1">
+										<dl>
+											<dt><img src="https://static.ebs.co.kr/www/common/img/global/menu/more_category1.gif" alt="방송" /></dt>
+											<dd>온에어</dd>
+											<dd class="type2"><a href="https://www.ebs.co.kr/onair?channelCodeString=tv">EBS 1</a></dd>
+											<dd class="type2"><a href="https://www.ebs.co.kr/onair?channelCodeString=tv2">EBS 2</a></dd>
+											<dd class="type2"><a href="https://www.ebs.co.kr/onair?channelCodeString=plus1">PLUS1</a></dd>
+											<dd class="type2"><a href="https://www.ebs.co.kr/onair?channelCodeString=plus2">PLUS2</a></dd>
+											<dd class="type2" style="width:105px;"><a href="https://www.ebs.co.kr/onair?channelCodeString=ebse">EBSe</a></dd>
+                                            <dd class="type2" style="width:105px;"><a href="https://www.ebs.co.kr/onair?channelCodeString=ebsu">EBS KIDS</a></dd>									
+											<dd class="type2" style="width:105px;"><a href="https://www.ebs.co.kr/onair?channelCodeString=radio">EBS FM</a></dd>
+											<dd class="type2" style="width:105px; margin:0 0 5px;"><a href="https://www.ebs.co.kr/onair?channelCodeString=iradio">반디 외국어 전문</a></dd>									
+											<dd><a href="https://www.ebs.co.kr/schedule">편성표</a></dd>
+											<dd><a href="https://www.ebs.co.kr/tv/home">TV</a></dd>
+											<dd><a href="https://www.ebs.co.kr/radio/home">라디오</a></dd>											
+											</dl>
+									</li>
+									<li class="more_category2">
+										<dl>
+											<dt><img src="https://static.ebs.co.kr/www/common/img/global/menu/more_category2.gif" alt="학습" /></dt>											
+											<dd><a href="https://primary.ebs.co.kr">초등</a></dd>
+											<dd><a href="https://mid.ebs.co.kr">중학</a></dd>
+											<dd><a href="https://www.ebsi.co.kr" target="_blank" title="새창">고교</a></dd>
+											<dd><a href="https://www.ebslang.co.kr/main.ebs" target="_blank" title="새창">어학</a></dd>
+											<dd><a href="https://www.ebse.co.kr" target="_blank" title="새창">EBSe (영어)</a></dd>
+											<dd><a href="https://www.ebsmath.co.kr" target="_blank" title="새창">EBS MATH (수학)</a></dd>
+                                                                                        <dd><a href="https://on.ebs.co.kr" target="_blank" title="새창">초등ON</a></dd>
+                                                                                        <dd><a href="https://book.ebs.co.kr" target="_blank" title="새창">EBS eBook</a></dd>	
+										</dl>
+									</li>
+									<li class="more_category3">
+										<dl>
+											<dt><img src="https://static.ebs.co.kr/www/common/img/global/menu/more_category3.gif" alt="프리미엄 학습" /></dt>
+											<dd><a href="https://mid.ebs.co.kr/premium/middle/index">프리미엄 중학</a></dd>
+											<dd><a href="https://www.ebs.co.kr/land">공인중개사</a></dd>
+											<dd><a href="https://www.ebs.co.kr/public">공무원</a></dd>
+											<dd><a href="https://www.ebs.co.kr/pass">자격증</a></dd>
+                                            <dd><a href="https://www.ebs.co.kr/compass">컴퓨터활용능력</a></dd>
+                                            <dd><a href="https://www.ebs.co.kr/voucher/lecture/pkg">평생교육바우처</a></dd>
+											<!-- <dd><a href="https://www.ebslang.co.kr/main.ebs" target="_blank" title="새창">EBS랑 (외국어)</a></dd> -->
+										</dl>
+									</li>
+									<li class="more_category4">
+										<dl>
+											<dt><img src="https://static.ebs.co.kr/www/common/img/global/menu/more_category4.gif" alt="기타" /></dt>
+											<dd><a href="https://about.ebs.co.kr/kor/main/index">EBS 소개</a></dd>
+                                            <dd><a href="https://about.ebs.co.kr/kor/organization/recruit?tabVal=notice">EBS 채용</a></dd>
+											<dd><a href="https://www.ebs.co.kr/durian">두리안(다문화)</a></dd>
+											<dd><a href="https://www.eidf.co.kr/2015kor" target="_blank" title="새창">EIDF (다큐영화제)</a></dd>
+											<dd><a href="https://www.ebs.co.kr/free">장애인서비스</a></dd>		
+											<dd><a href="https://www.ebs.co.kr/customer/service/event/progressionofevent">이벤트</a></dd>
+											<dd><a href="https://www.ebs.co.kr/package/freeticket">구독하기</a></dd>
+											<dd><a href="https://www.ebs.co.kr/space">스페이스공감</a></dd>
+										</dl>
+									</li>
+								</ul>
+								<a href="#" class="btn_more_close" onclick="hide(); return false;"><img src="https://static.ebs.co.kr/www/common/img/global/button/btn_more_close.gif" alt="더보기 닫기" /></a>
+							</div><a href="#" class="btn_more_close" onclick="$('.more_box').hide();"><img src="/common/images/global/btn_more_close.gif" alt="더보기 닫기"></a>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<script type="text/javascript">
+					var $pcMoreBox = $( '#pcMoreBox > div:eq(0)' );
+					$pcMoreBox.addClass( 'area_gnb' );
+					$pcMoreBox
+						.find( 'li.more_category1 dd:last' )
+						.before( '<dd><a href="https://www.ebs.co.kr/customer/introduce/usage/mobileService">모바일 이용안내</a></dd>' );
+				</script>
+
+<form id="logout-form" action="/pororo/sso/logout" method="get">
+	<input type="hidden" name="c" id="c" valsssue="LO"/>
+	<input type="hidden" name="m" id="m"/>
+	<input type="hidden" name="returnUrl" value="https://home.ebs.co.kr/pororo"/>
+</form><script type="text/javascript">
+
+//<![CDATA[
+// IE 이면 li(0) : 로고, li(1) : 시작페이지, li(2) : 즐겨찾기  중 li(1), li(2) 나오게 하고
+// IE가 아니면 li(1), li(2) 를 숨김.
+/* function isChkIeVersion() {	// ie 10 이하 버전인지 확인...
+	var detectIEregexp = /Trident.*rv[ :]*(\d+\.\d+)/;
+    var ie11Chk = detectIEregexp.test(navigator.userAgent);  // IE 11 예외 처리
+    if (!ie11Chk) {
+    	if (navigator.userAgent.indexOf('MSIE') != -1)
+            return true;
+    }
+	return false;
+} */
+if(!$.browser.msie) {
+	 $("#Header .area_util li:eq(1), #Header .area_util li:eq(2)").remove();
+	}
+
+function isMobileBrowser(){
+	var thisBrowser = navigator.userAgent.toLowerCase();
+	var result = false;
+	if( // 브라우저 체크 , 모바일 모드 일때
+			thisBrowser.indexOf("iphone") != -1 ||
+			thisBrowser.indexOf("ipod") != -1 ||
+			thisBrowser.indexOf("ipad") != -1 ||
+			thisBrowser.indexOf("android") != -1
+		) {
+			result = true;
+		}
+	return result;
+}
+
+function loginAct() {
+	if (isMobileBrowser()) {
+		//location.href="https://m.ebs.co.kr/login?targetUrl=https%3A%2F%2Fhome.ebs.co.kr%3A443%2Fpororo%2Fetc%2F1%2Fcast";
+		//location.href="https://m.ebs.co.kr/login?targetUrl=https%3A%2F%2Fhome.ebs.co.kr%3A443%2Fpororo%2Fetc%2F1%2Fcast";
+		window.parent.location.href="/pororo/sso/login?returnUrl=https%3A%2F%2Fhome.ebs.co.kr%3A443%2Fpororo%2Fetc%2F1%2Fcast";
+	} else {
+		window.parent.location.href="/pororo/sso/login?returnUrl=https%3A%2F%2Fhome.ebs.co.kr%3A443%2Fpororo%2Fetc%2F1%2Fcast";
+	}
+}
+
+function fn_login(){
+	var frm = $('<form action="/pororo/sso/login" method="get"></form>');
+	var parent = false;
+
+	if( !$("#h_header").length ) {
+		parent = true;
+	}
+
+	if(parent == true) {
+		$(window.parent.document).find("body").append(frm);
+	} else {
+		$("body").append(frm);
+	}
+
+	frm.submit();
+};
+
+function logoutAct() {
+	var isLocalMode;
+
+	/* $.ajax({
+		url: '',
+		type: 'GET',
+		async: false,
+		data: 'c=CLM',
+		success: function (data) {
+			isLocalMode = 'Y'==data?true:false;
+		},
+		error: function (data) {
+			localMode = false;
+		}
+	}); */
+
+	if(isLocalMode || '' == 'Y') {	//로컬모드체크하여 로컬모드일 경우 SSO Server에 요청을 보내지 않는다.
+		$('#m').val('LOCAL');
+		$('#logout-form').append($('<input/>', {type: 'hidden', name: 'local', id: 'local', value: 'Y' }));
+	}
+
+	$('#logout-form').submit();
+}
+
+$('#btn-logout').click(function() {
+	var isLocalMode;
+
+	/* $.ajax({
+		url: '',
+		type: 'GET',
+		async: false,
+		data: 'c=CLM',
+		success: function (data) {
+			isLocalMode = 'Y'==data?true:false;
+		},
+		error: function (data) {
+			localMode = false;
+		}
+	}); */
+
+	if(isLocalMode || '' == 'Y') {	//로컬모드체크하여 로컬모드일 경우 SSO Server에 요청을 보내지 않는다.
+		$('#m').val('LOCAL');
+	}
+
+	$('#logout-form').submit();
+});
+
+var hmpId = 'pororo'; // 홈페이지 아이디 저장 (퍼가기 로그에서 필요한 필드)
+
+
+//]]>
+
+function evtLayerClose(t) {
+	if( $(t).closest(".layer_red").find("input[name=eventCheck]").is(":checked") ) {
+		$.cookie('layer_evtPrzwPopup', "true", { path: "/", expires: 1});
+	}
+	$(t).closest('#popLi').hide();
+};
+/* 불량회원 팝업 원복처리
+function evtLayerClose2(t) {
+	if( $(t).closest(".layer_red").find("input[name=eventCheck2]").is(":checked") ) {
+		$.cookie('layer_badMmbPopup', "true", { path: "/", expires: 1});
+	}
+	$(t).closest('#popLi2').hide();
+}; */
+</script>
+<!-- // 공통 헤더 -->
+
+<script>
+   window.addEventListener('message',function(e){
+		 if(e.data.childData=='conPopClose'){
+			setCookie("continuedPlay", "done", 1);
+			$("#ifrContinuePopup").hide();
+		}else  if(e.data.childData=='conPopClose2'){
+			setCookie("autoPaymentCookie", "done", 1);
+			$(".auto_payment").hide();
+		}
+	});
+
+   function setCookie( name, value, expiredays ) {
+		var todayDate = new Date();
+	    todayDate.setDate( todayDate.getDate() + expiredays );
+	    document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+	}
+</script><!-- //header 끝 -->
+			<!--  컨텐츠 시작 -->
+				<div id="wrap" class="main_contents">
+				<div class="inner ">
+<div id="h_header" class="secTit_program spot_info">
+							<div>
+								<!-- 10-21 .appBtn 추가 시작 : tv app 추가 사항-->
+									<a href="javascript:tvAppBackBtn();" class="appBtn ico-back"></a>
+									<a href="#none" class="appBtn ico-onair"></a>
+								<!-- //10-21 .appBtn 추가 끝 : tv app 추가 사항 -->
+								<a href="javascript:void(0)" class="btn_totalmenu mot-block">
+									<strong class="ico_com ta-menu"><span class="screen_out">메뉴보기</span></strong>
+								</a>
+								<div class="info_program">
+									<span class="ie7-vac"></span>
+									<div class="tit_area info info">
+										<h2 class="hidden">프로그램 정보</h2>
+										<p class="name_program">
+											<a href="/pororo/main" class="pro_subTit">뽀롱뽀롱 뽀로로</a>
+											<a class="myprogram"  href="#none" onclick="BHP.UI.Top.addMyProgram('pororo', '뽀롱뽀롱 뽀로로', 'BA0AA000000000020');return false;"><span class="btn_myprogram">MY</span></a>
+											<a href="#none" class="sns_pop" data-type="1"><span class="btn_sns_pop">공유하기</span></a>
+											<script type="text/javascript">
+											$(document).ready(function(){
+												$.ajax({
+													url: '/' + hmpId + '/ajax/favoriteUseYn.json',
+													async: false,
+													data: { 'hmpId': hmpId, 'courseId': 'BA0AA000000000020'},
+												    beforeSend: function(xhr) {
+												    	xhr.setRequestHeader('Content-Type', 'application/json');
+												    }
+												})
+												.done(function(data) {
+													var result = data.result;
+													if(result == "Y") {
+														$(".btn_myprogram").addClass("on");
+													}
+												});
+												
+												// tvApp 추가사항 : onair일때 onair버튼 노출....;
+												$.ajax({
+													url: '/' + hmpId + '/function/getOnairPrograms.json',
+													async: false,
+													data: { 'hmpId': hmpId },
+												    beforeSend: function(xhr) {
+												    	xhr.setRequestHeader('Content-Type', 'application/json');
+												    }
+												})
+												.done(function(data) {
+													var channel = data.channel;
+													var onairCnt = data.onair;
+													var tvAppYn = "";
+													if (onairCnt > 0 && tvAppYn == "Y") {
+														$(".ico-onair").addClass("on").attr("href","https://m.ebs.co.kr/tvapp/tvapponair?link=onair&selectChannel="+channel);
+													}
+												});
+												
+											});
+											
+											// tv 앱 뒤로가기 버튼 액션
+											function tvAppBackBtn() {
+						                       var currentOS;
+						                       var mobile = (/iphone|ipad|ipod|android/i.test(navigator.userAgent.toLowerCase()));
+
+						                       if (mobile) {
+						                              // 유저에이전트를 불러와서 OS를 구분합니다.
+						                              var userAgent = navigator.userAgent.toLowerCase();
+						                              if (userAgent.search("android") > -1)
+						                                      currentOS = "android";
+						                              else if ((userAgent.search("iphone") > -1) || (userAgent.search("ipod") > -1)
+						                                                     || (userAgent.search("ipad") > -1))
+						                                      currentOS = "ios";
+						                              else
+						                                      currentOS = "else";
+						                       } else {
+						                              // 모바일이 아닐 때
+						                              currentOS = "nomobile";
+						                       }
+
+						                       if(currentOS == "android"){
+						                              window.ebsTVApp.back();
+						                       }
+						                       else if(currentOS == "ios"){
+						                              window.location = "ebsTVApp:back";
+						                       }
+						                       else{
+						                              window.history.back();
+						                       }
+											}
+											</script>
+										</p>
+										<p class="pc_program_time pct-block">
+											<span>[1TV] 금 오전 7시(본)</span><span>[1TV] 금 오후 4시55분(재)</span><span>[2TV] 화 오후 3시(본)</span><span>[2TV] 일 오전 9시(재)</span><span>[2TV] 월 오후 3시(전주재방)</span><span>[2TV] 토 오전 9시(전주재방)(재)</span>
+											<!-- <span>[1TV] 월,화 오전 6시(본) | 수~금 오후 2시(재)</span><span> [2TV] 금 저녁 6시(본)</span><span> 재방송</span> -->
+										</p>
+									</div>
+</div>
+							</div>
+						</div><!-- 상단 html -->
+							<div id="container" class="wrap_contens ">
+						<div class="bg_contens">
+							
+						<!-- pc  gnb(모바일 태블릿 메뉴) 시작 -->	
+							<div class="wrap_secMenu">
+								<!-- 블루 컬러 타입일 경우 : .blue-type 추가, 핑크 컬러 타입일경우 .pink-type 추가-->
+								<div class="secMenu black-type snb">
+									<h2 class="hidden">프로그램 메뉴</h2>
+									<div class="gnb">
+										<h2 class="hidden">네비게이션</h2>
+										<div class="m_member">
+											<div class="nav_drawer_top">
+												<a href="#none" onclick="loginAct();return false;" class="btn_log i-mtMenu out">
+													<span class="screen_out">로그인 정보</span>
+												</a>
+												<a href="#none" class="btn_share i-mtMenu sns_pop" data-type="1">
+													<span class="screen_out">공유하기</span>
+												</a>
+												<button type="button" class="menu_close i-mtMenu"><span>주요 서비스 메뉴 닫기</span></button>
+											</div>
+											<div class="schbox">
+												<form role="search" id="mobSrc" method="get" action="https://www.ebs.co.kr/search">
+													<label for="ebssearch" class="hidden">Search the EBS</label> 
+													<input id="ebssearch"  class="form-control" type="text" name="query" placeholder="" />
+													<input type="hidden" id="topquery" name="topquery" />
+													<a href="#none" onclick="mobSearchAction();" class="btn_search i-mtMenu"><span class="screen_out">검색버튼</span></a>
+												</form>
+												<script>
+												function mobSearchAction() {
+													$("#topquery").val(encodeURIComponent($("#ebssearch").val()));
+													$("#mobSrc").submit();
+												}
+												</script>
+											</div>
+										</div>
+										<!-- 10-24 모바일용 공유 추가  시작-->
+											<div class="wrap_share">
+												<ul class="lst_share" style="">
+													<li><a href="#none" onclick="shareTwitter('https://home.ebs.co.kr/pororo/main', '뽀롱뽀롱 뽀로로');return false;"><img src="/common/images/rwdskin/pc/ico-share01.gif" alt=""></a></li>
+													<li><a href="#none" onclick="shareFacebook('https://home.ebs.co.kr/pororo/main', '뽀롱뽀롱 뽀로로', null, null);return false;"><img src="/common/images/rwdskin/pc/ico-share04.gif" alt=""></a></li>
+													<li><a href="#none" onclick="shareBand('뽀롱뽀롱 뽀로로https://home.ebs.co.kr/pororo/main','https://home.ebs.co.kr/pororo/main');return false;"><img src="/common/images/rwdskin/pc/ico-share03.gif" alt=""></a></li>
+													<li><a href="#none" onclick="shareKakaostory('https://home.ebs.co.kr/pororo/main');return false;"><img src="/common/images/rwdskin/pc/ico-share02.gif" alt=""></a></li>
+												</ul>
+											</div>
+										
+											<script type="text/javascript">
+												$(document).ready(function(){
+/* 													 $(".m_member .btn_share").on("click",function(){
+														$(".gnb .wrap_share").toggleClass("on");
+													 }); */
+													 	 
+													 var hmpIdStr = "pororo";
+														$(".lst_gnb li a").each(function(){
+															if ($(this).attr("href").indexOf("/poll/")>-1 || ($(this).attr("href").indexOf("/link")>-1 && hmpIdStr == "pororo") || $(this).attr("href").indexOf("/cast")>-1) {
+																$(this).closest("li").addClass("pc-block");
+															} 
+														});
+														
+												});	
+											</script>
+											<!-- //10-24 모바일용 공유 추가  끝-->
+										<ul class="main lst_gnb">
+											<li class="lnb_35"><a href="/pororo/etc/35/htmlMenu">프로그램 소개</a></li>
+<li class="lnb_36"><a href="/pororo/etc/36/htmlMenu">캐릭터 소개</a></li>
+<li class="lnb_4"><a href="/pororo/board/4/502671/list?hmpMnuId=100">공지사항</a></li>
+<li class="lnb_43"><a href="#" onclick="toggle(this); return false;">신작 다시보기</a><ul class="sub"><li class="lnb_51"><a href="/pororo/replay/51/list?courseId=BA0AA000000000020&stepId=60053035">뽀로로 시즌8</a></li>
+<li class="lnb_46"><a href="/pororo/replay/46/list?courseId=BA0AA000000000020&stepId=20010140">뽀로로 시즌7</a></li>
+<li class="lnb_41"><a href="/pororo/replay/41/list?courseId=10207421&stepId=20008716">뽀로로 동화나라</a></li>
+</ul></li>
+<li class="lnb_44"><a href="#" onclick="toggle(this); return false;">본편 다시보기</a><ul class="sub"><li class="lnb_38"><a href="/pororo/replay/38/list?courseId=BA0AA000000000020&stepId=10030799">뽀로로 NEW1 </a></li>
+<li class="lnb_37"><a href="/pororo/replay/37/list?courseId=BA0AA000000000020&stepId=10024361">뽀로로 시즌6</a></li>
+<li class="lnb_26"><a href="/pororo/replay/26/list?courseId=BA0AA000000000020&stepId=10009333">뽀로로 시즌5 </a></li>
+<li class="lnb_24"><a href="/pororo/replay/24/list?courseId=BA0AA000000000020&stepId=10006567">뽀로로 시즌4</a></li>
+<li class="lnb_47"><a href="/pororo/replay/47/list?courseId=BA0AA000000000020&stepId=20010141">뽀로로 시즌3</a></li>
+</ul></li>
+<li class="lnb_45"><a href="#" onclick="toggle(this); return false;">스페셜 다시보기</a><ul class="sub"><li class="lnb_40"><a href="/pororo/replay/40/list?courseId=10033923&stepId=20000581">뽀로로와 노래해요 NEW2</a></li>
+<li class="lnb_39"><a href="/pororo/replay/39/list?courseId=10033923&stepId=10037939">뽀로로와 노래해요 NEW1</a></li>
+<li class="lnb_30"><a href="/pororo/replay/30/list?courseId=10014058&stepId=10015033">뽀로로와 노래해요  시즌3</a></li>
+<li class="lnb_22"><a href="/pororo/replay/22/list?courseId=BA0AC000000000179&stepId=01BA0AC000000000179">요리공주 루피</a></li>
+<li class="lnb_21"><a href="/pororo/replay/21/list?courseId=BA0AC000000000125&stepId=01BA0AC000000000125">똑똑박사 에디 </a></li>
+<li class="lnb_19"><a href="/pororo/replay/19/list?courseId=10003593&stepId=10004723">뽀로로 잉글리시 쇼</a></li>
+<li class="lnb_49"><a href="/pororo/replay/49/list?courseId=40046572&stepId=60049671">뽀로로 10주년 특집</a></li>
+<li class="lnb_50"><a href="/pororo/replay/50/list?courseId=40046553&stepId=60049648">뽀로로 20주년 특집</a></li>
+</ul></li>
+</ul>
+										<div class="wrap_bot_menu">
+						<div class="mt_bot_menu">
+							<ul>
+								<li><a href="https://www.ebs.co.kr/mypage">마이페이지</a></li>
+								<li><a href="https://www.ebs.co.kr/mypage/order/basket/list">장바구니</a></li>
+								<li class="more_menu">
+									<a href="#">메뉴<br>더보기+</a>
+								</li>
+							</ul>
+							<div class="more_box">
+								<div>
+									<ul>
+										<li class="more_category1 selected">
+											<dl>
+												<dt>방송</dt>
+												<dd><a href="https://www.ebs.co.kr/onair?channelCodeString=tv">온에어</a></dd>
+												<dd><a href="https://www.ebs.co.kr/onair?channelCodeString=iradio">외국어 라디오</a></dd>									
+												<dd><a href="https://www.ebs.co.kr/schedule">편성표</a></dd>
+												<dd><a href="https://www.ebs.co.kr/tv/home">TV 다시보기</a></dd>
+												<dd><a href="https://www.ebs.co.kr/radio/home">라디오홈</a></dd>
+												<dd><a href="https://www.ebs.co.kr/kids">EBS Kids</a></dd>
+												<dd><a href="https://www.ebs.co.kr/customer/introduce/usage/mobileService">모바일 이용안내</a></dd>
+												<dd class="last_desc"><a href="https://www.ebs.co.kr/radio/bandi">반디</a></dd>
+											</dl>
+										</li>
+										<li class="more_category2">
+											<dl>
+												<dt>학습</dt>											
+												<dd><a href="https://primary.ebs.co.kr">초등</a></dd>
+												<dd><a href="https://mid.ebs.co.kr">중학</a></dd>
+												<dd><a href="http://www.ebsi.co.kr" target="_blank" title="새창">고교</a></dd>
+												<dd><a href="https://www.ebs.co.kr/job">직업</a></dd>		
+												<dd><a href="http://www.ebse.co.kr" target="_blank" title="새창">EBSe (영어)</a></dd>
+												<dd class="last_desc"><a href="http://cloud.ebsmath.co.kr" target="_blank" title="새창">EBS MATH (수학)</a></dd>	
+											</dl>
+										</li>
+										<li class="more_category3 ">
+											<dl>
+												<dt>프리미엄</dt>
+												<dd><a href="https://mid.ebs.co.kr/premium/middle/index">프리미엄 중학</a></dd>
+												<dd><a href="https://www.ebs.co.kr/land">명품 공인중개사</a></dd>
+												<dd><a href="https://www.ebs.co.kr/public">명품 공무원</a></dd>
+												<dd><a href="https://www.ebs.co.kr/pass">명품 자격증</a></dd>
+												<dd class="last_desc"><a href="https://www.ebs.co.kr/gosi">명품 고시</a></dd>
+												<!-- <dd class="last_desc"><a href="http://www.ebslang.co.kr" target="_blank" title="새창">EBSlang (외국어)</a></dd> -->											
+											</dl>
+										</li>
+										<li class="more_category4">
+											<dl>
+												<dt>기타</dt>
+												<dd><a href="https://about.ebs.co.kr/kor/main/index">EBS 소개</a></dd>
+												<dd><a href="https://www.ebs.co.kr/durian">두리안(다문화)</a></dd>
+												<dd><a href="http://www.eidf.co.kr/2015kor" target="_blank" title="새창">EIDF (다큐영화제)</a></dd>
+												<dd><a href="https://www.ebs.co.kr/free">장애인서비스</a></dd>		
+												<dd><a href="https://www.ebs.co.kr/customer/service/event/progressionofevent">이벤트</a> / <a href="https://www.ebs.co.kr/package">패키지</a></dd>
+												<dd><a href="https://www.ebs.co.kr/package/freeticket">구독하기</a></dd>
+												<!-- <dd><a href="http://book.ebs.co.kr" target="_blank" title="새창">EBS 북몰</a></dd> -->
+												<dd class="last_desc"><a href="https://www.ebs.co.kr/space">스페이스공감</a></dd>
+											</dl>
+										</li>
+									</ul>
+									<a href="#" class="btn_more_close" onclick="hide(); return false;"><img src="https://static.ebs.co.kr/www/common/img/global/button/btn_more_close.gif" alt="더보기 닫기"></a>
+								</div>
+							</div>
+						</div>
+					</div></div><div class="mod_ad_area">
+											<div class="main_banner">	
+												<iframe width="150" height="120" id="" class=" adBanner_07Y6" src="//ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=07Y6&out=iframe" allowTransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" title="광고배너"></iframe>
+	</div>
+										</div>
+										<!-- 배너배너배너 11111 :  / U -->
+									<style>
+.bnrExtList {display:none;}
+</style>
+	<div class="mod_banner">
+			<ul>
+				<li i="pororoY">
+								<a href="#none" onclick="fn_bnnrClick('4516','http://www.ebs.co.kr/customer/service/event/progressionofevent/1354589277157','Y');return false;">
+						  			<img src="https://static.ebs.co.kr/images/public/2024/03/5/10/24/48/8c26260f-b0da-49c4-b995-1ba62f0f8b81.jpg" alt="3월 새학기 이벤트" />
+						 		</a>
+						    </li>
+						 		</ul>
+		</div>
+	<script>
+
+function fn_bnnrClick(bnnrId,bnnrUrl,target) {	
+	$.ajax({	   	
+	    url:"/pororo/function/bnnrHitGigUpdate.json?bnnrId="+bnnrId,
+	    async: false,
+        success: function(data) {
+	       var result = data.isBnnrClickYn;
+	       if(result=="Y"){
+	    	   if (target=="Y") {
+	    		   var winFrm2222 = window.open(bnnrUrl);
+	    	   } else {
+	    		   location.href=bnnrUrl;
+	    	   }
+	       }	
+	       return false;
+	     },
+	    error: function(e) {
+	        //alert("error!!");
+	    }
+	});
+}
+</script><br/>
+									</div>
+								<!-- pc  gnb(모바일 태블릿 메뉴) 끝 -->
+							</div>
+							<div class="m-program_time">
+								<a href="/pororo/main" class="btn_home"><span class="ico-home"></span></a>
+									<a href="" class="btn_more"><span class="ico_com"></span></a>
+								<ul>
+									<li>[1TV] 금 오전 7시(본)</li><li>[1TV] 금 오후 4시55분(재)</li><li>[2TV] 화 오후 3시(본)</li><li>[2TV] 일 오전 9시(재)</li><li>[2TV] 월 오후 3시(전주재방)</li><li>[2TV] 토 오전 9시(전주재방)(재)</li>
+								</ul>
+								<a href="" class="icon_more"></a>
+							</div>
+						<!-- 	//모바일-프로그램 시간정보 끝 -->	
+							
+						<!-- 메인 페이지 내용 영역  시작 -->
+							<div  id="contents" class="secContents">
+								<div class="listContents">
+									<div class="bhp about_cast">
+
+	<!-- 반응형 적용(009) -->
+		<div class="tit_page">
+			<h3>캐릭터소개</h3>
+			<p class="location pct-block"><span>HOME</span> &gt; <span>캐릭터소개</span></p>
+		</div>
+	<!-- 상단 운영 컨텐츠
+	
+	 // -->
+	<!-- // 상단 운영 컨텐츠 -->
+	
+	<ul class="list">
+	<li>
+			<div class="wrap">
+				<p class="name">PORORO (뽀로로)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/public/lectures/2014/06/19/10/bhpImg/44deb98d-1c50-4073-9bd7-2c2c28d65f9e.jpg" alt="7c855afa-fa63-4d93-9ff0-78a0bcb12cef.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'"/></p>
+						<div class="con">
+					<P>호기심이 많은 꼬마 펭귄. 신기한 물건을 발견하면 왕성한 호기심이 발동하고, 하고 싶은 것은 꼭 하고야 맙니다. 하늘을 날 수 있을 거라는 의지를 실천에 옮기려는 좌충우돌형에 장난기가 넘치는 사고다발 꼬마이지만 숲속 마을에는 없어선 안되는 분위기 메이커입니다.</P></div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">PETTY(패티)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242723588618_dphGgSgOAp.jpg" alt="petty.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					뽀롱뽀롱 숲 속 마을에 새로 이사 온 활달하고 사교성이 좋은 소녀 펭귄. 예쁘고 싹싹한 성격으로 친구들의 관심을 받는 새로운 친구로 등장합니다. 귀엽고 예쁜 외모와는 달리 털털한 성격에, 축구, 달리기, 수영, 무슨 운동이든 뛰어나 친구들의 부러움을 사지만 요리만큼은 서툴답니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">LOOPY(루피)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242723572507_BOtiBfIuyL.jpg" alt="loopy.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					섬세하고 부끄러움이 많은 소녀 비버. 친구들에게 딸기 케익과 맛있는 파이를 만들어 주기를 좋아하는 타고난 따듯한 마음에 여린 심성의 소유자로 말썽장이 친구들에게 따끔한 충고를 잊지 않는 숲속 마을의 모범 소녀랍니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">CRONG(크롱)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242723212878_bxr2reBk9w.jpg" alt="crong.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					뽀로로가 눈 속에서 발견한 알에서 태어난 아기공룡. 태어나자마자 처음 본 뽀로로를 친형처럼 따라다니며 항상 뽀로로의 행동을 따라 합니다. 사리 분별없는 크롱은 때론 뽀로로보다 더 심한 장난꾸러기에 말썽장이지만 뽀로로와 친구들을 누구보다도 아끼고 사랑하는 숲속마을의 귀여운 재롱동이 랍니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">POBY(포비)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242723602807_VcCnrrJwzW.jpg" alt="poby.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					몸집만 커다란 5살난 꼬마 백곰. 큰 코와 언제나 빙그레 웃음짓는 표정이 트레이드 마크. 집안을 깨끗하게 청소하거나 책을 읽는 것, 또 음악을 아주 좋아하는 섬세하고 낭만적인 포비는 친구들의 부탁에 항상 친절히 도와주고, 귀찮은 일도 묵묵하게 해내는 믿음직한 맏형 같은 친구입니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">HARRY(해리)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242723549377_49L83YjvJL.jpg" alt="harry.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					노래를 좋아하는 유쾌한 작은 벌새.(HUMMING BIRD) 노래 부르고 춤추는 것을 너무나 좋아하고 한번 부르면 도무지 멈출 줄을 몰라서 주위를 피곤하게 합니다. 다소 급한 성격이어서 친구들의 오해를 살 만한 행동들을 하기도 하지만 그 역시 악의없는 행동들이어서 친구들과 금방 화해를 한답니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">EDDY(에디)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242723513396_kp9fgpCfTO.jpg" alt="eddy.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					나름대로 박학다식한 영리한 꼬마여우. 아는 척 잘하고 남의 일에 사사건건 나서기 좋아하는 참견장이. 훌륭한 과학자가 꿈인 에디는 상상력이 풍부하여 무언가 고치고 만들어 내는 것을 좋아하지만 그 새로운 발명품으로 인해 에디는 항상 크고 작은 사건사고의 주인공이 됩니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">rody(로디)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242724730403_Qkb1tVuekp.jpg" alt="rody.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					에디의 모습을 본떠 만든 조수 로봇. 힘이 세고 팔 다리가 늘어나는 기능이 있습니다. 자신을 만들어준 에디를 무척 사랑하고 따릅니다. 갓 만들어진 로봇이다 보니 어린아이처럼 천진난만하고 모르는 것이 많습니다. 로봇이기 때문에 친구들과 다르다는 것에 실망하기도 하지만 친구들과 어울려 즐겁게 지냅니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">tongtonge(통통이)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242724730412_kSJFoPSKBj.jpg" alt="tongtonge.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					깊고 깊은 산속의 동굴 집에서 살고 있는 마법사 드래곤. 평소엔 친구들과 비슷하지만 하늘을 날 땐 커다란 드래곤으로 변신합니다. 통통이가 여러가지 마법봉을 휙~ 휙~ 휘두르면 평범했던 모든 것이 멋진 판타지로 바뀐답니다. 가끔씩 살짝(?) 실수를 해서 친구들을 놀라게 하기도 하지만 덕분에 친구들은 심심할 틈이 없답니다.</div>
+			</div>
+		</li>
+			<li>
+			<div class="wrap">
+				<p class="name">popo&pipi(뽀뽀&삐삐)</p>
+				<p class="thumb">
+	
+					<img src="https://static.ebs.co.kr/images/ebs/WAS-HOME/portal/upload/img/programinfo/person/per/1242724730393_9UgtEhQ7pU.jpg" alt="popo&pipi.jpg"  onerror="this.src='/common/img/no_image_160_111.gif'" /></p>
+						<div class="con">
+					새로 등장한 외계인 친구들. 뽀뽀는 소심하고 여성스러운 성격이고, 삐삐는 적극적이고 활달한 성격입니다. 동그란 얼굴과 두 눈에 호기심이 한 가득. 뽀롱뽀롱 친구들과 생김새도 너무나 다르고 생각도 많이 다르지만, 다정하고 따뜻한 마음, 넘치는 장난기만은 똑같습니다. 우주에서 뽀로로 비행기와 부딪쳐 불시착한 이후로 뽀로로 친구들과 함께 지내게 됩니다.</div>
+			</div>
+		</li>
+			</ul>
+	
+	</div></div>
+								
+								<div class="mrs_modal_wrap">
+									<div class="mrs_content">
+										<div class="mrs_h1"></div>
+										<div class="srh_clone">
+										</div>
+										<a href="#this" class="ir_text mrs_close">닫기</a>
+									</div>
+									
+									<div class="mrs_dim"></div>
+								</div>
+							</div>
+							<!-- //페이지 내용 영역  끝 -->							
+							</div>
+						</div>
+					</div>
+			</div>
+			<!-- // 컨텐츠 끝 --> 
+			
+			<!-- 12-26 ad배너 영역 시작 -->
+			<div class="mb_adArea">
+				<iframe width="640" height="100" id="" class=" adBanner_07YP" src="//ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=07YP&out=iframe" allowTransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" title="광고배너"></iframe>
+	</div>
+			<!-- 12-26 ad배너 영역 끝 -->
+			<!-- footer 시작 --> 
+			<!-- 포탈 로그 user정보 -->
+<!-- //포탈 로그 user정보 -->
+
+<script type="text/javascript">
+var logAjax = {
+	init : function (opt) {
+		var param = "";
+		param = "hmpId=" + opt.hmpId + "&hmpMnuSno=" + opt.hmpMnuSno + "&tmpUrl=" + opt.tmpUrl +"&bfUrl="+opt.bfUrl;
+		$.ajax({
+			url : "/logProce/pororo/logAjax",
+			data : param,
+			type : "get",
+			dataType : "json",
+			cache : false,
+			success : function (data) {
+				//alert("성공:");
+			}
+		});
+	}
+};
+logAjax.init({ hmpId : 'pororo', hmpMnuSno : '1' , tmpUrl :location.href , bfUrl :'https://www.google.com/' });
+</script>
+
+
+			<div class="footer">
+					<div class="area_notice pc-block">
+						<div class="inner" style="display:none">
+							<div class="content_notice">
+								<h3><img src="/common/img/global/head_notice.gif" alt="서비스 공지"></h3>
+								<ul>
+									</ul>
+								<div class="btn_more_txt"><a href="https://www.ebs.co.kr/customer/service/notice"><img src="/common/img/global/btn_more_txt2.gif" alt="더보기"></a></div>
+							</div>
+						</div>
+					</div>
+
+					<!-- 2017.04.20 주석처리 <div class="familysite_wrap pc-block">
+						<div class="inner">
+							<ul>
+								<li><a href="http://www.ebse.co.kr/" target="_blank" title="새창"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn1.gif" alt="EBS english" /></a></li>
+								<li><a href="http://www.ebslang.co.kr" target="_blank" title="새창"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn2.gif" alt="EBS lang" /></a></li>
+								<li><a href="http://cloud.ebsmath.co.kr" target="_blank" title="새창"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn3.gif" alt="EBS MATH" /></a></li>
+								<li><a href="https://clipbank.ebs.co.kr/main?src=text&kw=00006B"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn4.gif" alt="EBS 클립뱅크" /></a></li>
+								<li><a href="http://www.eidf.co.kr/dbox" target="_blank" title="새창"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn5.gif" alt="EIDF DBOX" /></a></li>
+								<li><a href="http://ebsstory.blog.me" target="_blank" title="새창"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn6.gif" alt="EBS 스토리 기업블로그" /></a></li>
+								<li><a href="https://www.ebs.co.kr/customer/twitter"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn7.gif" alt="Twitter EBS SNS" /></a></li>
+								<li><a href="http://book.ebs.co.kr"><img src="https://static.ebs.co.kr/www/common/img/category/main/footer_new_bn8.gif" alt="Book Mall" /></a></li>
+							</ul>
+						</div>
+					</div> -->
+
+					<div class="wrap_policy">
+						<div class="inner">
+							<div id="policy" class="policy">
+							<p><a href="https://about.ebs.co.kr/kor/main/index">EBS소개</a><span>·</span>	<a href="https://about.ebs.co.kr/kor/notice/announce">EBS공고</a><span>·</span><a href="https://home.ebs.co.kr/copyright/index">저작권 침해 제보</a><span>·</span><a href="https://home.ebs.co.kr/green">EBS클린신고</a><span>·</span><a href="https://about.ebs.co.kr/kor/business/concert"><strong>제휴문의</strong></a><span class="pct-block">·</span></p>
+								<p><a href="https://about.ebs.co.kr/kor/business/sponsorship"><strong>광고문의</strong></a><span>·</span><a href="https://sso.ebs.co.kr/policy/termsInfo">이용약관</a><span>·</span><a href="https://sso.ebs.co.kr/policy/privacy?fsdc="  style="color: #3c73a0; font-weight: bold;">개인정보처리방침</a><span>·</span><a href="https://sso.ebs.co.kr/policy/youthInfo?fsdc=">청소년 보호정책</a></p>
+							</div>
+							 <div class="area_link">
+								<div class="family_link">
+									<button type="button" title="FAMILY SITE" class="btn_family_link"><span class="screen_out">FAMILY SITE</span></button>
+									<ul class="family_link_layer">
+										<li><a title="새창" href="http://primary.ebs.co.kr" target="_blank">EBS 초등</a></li>
+										<li><a title="새창" href="https://mid.ebs.co.kr" target="_blank">EBS 중학</a></li>
+										<li><a title="새창" href="https://www.ebsi.co.kr" target="_blank">EBSi (고교)</a></li>
+										<li><a title="새창" href="https://www.ebse.co.kr" target="_blank">EBSe (영어)</a></li>
+										<!-- <li><a title="새창" href="https://www.ebslang.co.kr" target="_blank">EBS랑 (외국어) </a></li> -->
+										<li><a title="새창" href="https://cloud.ebsmath.co.kr/" target="_blank">EBS MATH (수학)</a></li>
+										<li><a title="새창" href="https://www.ebssw.kr/" target="_blank">이솦 (소프트웨어)</a></li>
+										<li><a title="새창" href="https://www.ebs.co.kr/space/main" target="_blank">스페이스공감 (공연)</a></li>
+										<li><a title="새창" href="https://www.eidf.org/kr" target="_blank">EIDF (다큐영화제)</a></li>
+										<li><a title="새창" href="https://about.ebs.co.kr/kor/social/main" target="_blank">사회공헌 홈페이지</a></li>
+										<li><a title="새창" href="https://www.ettc.co.kr" target="_blank">EBS원격교육연수원</a></li>
+										<li><a title="새창" href="https://www.ebslang.co.kr/speakingEng/main.ebs?frame_url=" target="_blank">EBS 전화/회상 외국어</a></li>
+										<li><a title="새창" href="http://ebsmedia.kr/home/" target="_blank">EBS 미디어</a></li>
+										<li><a title="새창" href="http://www.ebs.co.kr/kids" target="_blank">EBS KIDS</a></li>
+									</ul>
+								</div>
+								<a href="http://0302.co.kr" target="_blank" class="pct-block"><img src="/common/images/global/btn_remote.png" alt="원격지원"></a>
+								<a href="https://www.ebs.co.kr/customer/question/faq" target="_blank" class="pct-block"><img src="/common/images/global/btn_faq.png" alt="FAQ"></a>
+								<div class="call_help">
+									<a href="mailto:helpdesk@ebs.co.kr">
+										<img src="/common/images/global/ico_tell.png" alt="1588-1580 helpdesk@ebs.co.kr">
+										<p>1588-1580<span class="pct-block">helpdesk@ebs.co.kr</span></p>
+									</a>
+								</div>
+							</div>
+							<!-- 2020-05-19 -->
+							<div class="edu_confirm">
+								 <img src="/common/images/global/img_footer_pims_2020.png" alt="" />
+								 <p><span>[인증범위] EBS교육 포털 웹서비스</span><span>[유효기간] 2022.05.04 ~ 2025.05.03</span></p>
+							</div>
+							<!-- // 2020-05-19 -->
+							<div class="area_author">
+								<address>
+									<strong>10393</strong> 경기도 고양시 일산동구 한류월드로 281 한국교육방송공사 <span>사업자등록번호 : 229-82-01343 (한국교육방송공사사장 김유열)</span>
+									<p>시청자불만전담 : <a href="mailto:hotline@ebs.co.kr" target="_blank">hotline@ebs.co.kr</a><span>부가통신사업신고 : 10077  통신판매업신고 : 2017-고양일산동-1415  <a href="http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2298201343" target="_blank">[사업자정보확인]</a></span></p>
+									<strong class="copyright">Copyright ⓒ EBS. All Rights Reserved.</strong>
+								</address>
+							</div>
+						</div>
+					</div>
+				</div>
+			<!-- 퀵메뉴 영역 -->
+<script type="text/javascript">
+$(window).scroll(function(){
+	var s = $(window).scrollTop(),f = $('.footer').height(),wH = $(window).height(),f_top = $('.footer').offset();
+	if(s > (f_top.top-(wH+60)) ){
+		$('.mobQuick').addClass('posAsol');
+		$('.mobQuick').css('bottom',(f+10));
+	} else{
+		$('.mobQuick').removeClass('posAsol');
+		$('.mobQuick').css('bottom','10px');
+	}
+
+});
+$(document).ready(function() {
+	$(".rid_menu").click(function(){
+		var t = $(this).children('a');
+		var sell = $(this).siblings('.Qmenu');
+		if ($(sell).is(":visible") == true) {
+			$(sell).slideUp(200);
+			$(t).text('+');
+			$(this).removeClass('on');
+		} else {
+			$(sell).slideDown(200);
+			$(t).text('-');
+			$(this).addClass('on');
+		}
+	});
+	$('body').bind('touchstart', function(e) {
+		if($(".Qmenu").css("display") == "block"){
+			if(!$('.rid_menu, .Qmenu').has(e.target).length) {
+				$(".Qmenu").hide();
+				$('.rid_menu').removeClass('on').children('a').text('+');
+			}
+		}
+		//e.preventDefault();
+	});
+
+    // 공지사항
+    $.ajax({
+        url:"/pororo/function/getQuickMnuLists.json",
+        success: function(data) {
+            var result;
+            var quickMnuCnt = data.quickMnuLists.length;
+            if (quickMnuCnt > 0) {
+                var listHtml = "";
+                for (var i = 0, n = data.quickMnuLists.length; i < n; i++) {
+                    var result     = data.quickMnuLists[i];
+
+                    listHtml += '<li><a href="/'+result.hmpId+'/'+result.hmpMnuSno+'/hmpLink">'+result.mnuNm+'</a></li>';
+                }
+                //alert(listHtml);
+                 $('.Qmenu').html(listHtml);
+            } else {
+            	$(".rid_menu").css("display","none");
+            }
+        },
+        error: function(e) {
+            ;
+        }
+    });
+
+});
+</script>
+<div class="mobQuick mob-block">
+	<div class="rid_menu"><a href="javascript:void(0);">+</a></div>
+	<p class="triangle"></p>
+	<ul class="Qmenu">
+	</ul>
+</div>
+<!-- //퀵메뉴 영역 -->
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$(".btn_family_link").click(function(){
+		if($(".family_link_layer").css("display") == "none"){
+			$(".family_link_layer").show();
+		} else {
+			$(".family_link_layer").hide();
+		}
+	});
+});
+function tab1() {
+window.open("https://sso.ebs.co.kr/policy/termsInfo", "tab1", "scrollbars=no, resizeable = no, width=700, height=670");
+}
+function tab2() {
+	if (isMobileBrowser()) {
+		location.href="https://m.ebs.co.kr/cs/privacy";
+	}else{
+		window.open("https://sso.ebs.co.kr/policy/privacy?fsdc=", "tab2", "scrollbars=no, resizeable = no, width=700, height=670");
+	}
+}
+</script>
+
+<!-- 방문자 로그 수 증가 -->
+<script type="text/javascript">
+$(document).ready(function() {
+	$.ajax({
+        url: "/pororo/ajax/ajaxVisitLogPlus.json",
+        dataType : 'JSON',
+        type: "get",
+        cache: false,
+        success: function(data) {
+            return false;
+        }
+    });
+});
+function changeMobSession() {
+	$.ajax({
+        url: "/pororo/ajax/mobileSession.json?viewType=mob",
+        dataType : 'JSON',
+        type: "get",
+        success: function(data) {
+            //return false;
+        	document.location.href="https://m.ebs.co.kr/pororo";
+        }
+    });
+}
+</script>
+
+<!-- // 공통 푸터 -->
+<script type="text/javascript">
+function win_popup(url) {
+	window.open(url, "_blank", "width=700,height=670,scrollbars=no,location=no");
+}
+</script>
+
+<!-- 개인정보취급 본인인증팝업 -->
+<!--레이어팝업-->
+<!--2022-07-05-->
+<style>
+.disabled_selfAuthPopup {
+    pointer-events: none;
+    background-color: #eee !important;
+    color: #bbb !important;
+    border: 1px solid #d6d6d6 !important;
+    opacity: 1;
+}
+
+.dim {
+	display: none;
+}
+
+.dim.on {
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.4;
+	z-index: 100;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.layer_pop {
+	display: none;
+	width: 100%;
+	height: 100%;
+	z-index: 102;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.layer_pop.on {
+	display: block;
+}
+
+.layer_pop a:hover {
+	text-decoration: none;
+}
+
+.layer_pop .pop_inner {
+	width: 400px;
+	height: 280px;
+	background: #fff;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin: -140px 0 0 -200px;
+}
+
+.layer_pop .pop_inner .btn_close {
+	display: block;
+	position: absolute;
+	top: 24px;
+	right: 26px;
+	color: #000;
+	font-size: 0px;
+	text-decoration: none;
+	width: 15px;
+	height: 15px;
+	background: url('/common/img/close_btn.png') no-repeat;
+}
+
+.layer_pop .pop_inner .tit {
+	font-size: 20px;
+	font-weight: bold;
+	color: #000;
+	padding: 30px 0 15px;
+	text-align: center;
+}
+
+.layer_pop .pop_inner .pop_line {
+	padding: 10px 28px 0;
+	overflow: hidden;
+}
+
+.layer_pop .pop_inner .pop_line label {
+	color: #000;
+	font-size: 16px;
+	margin-right: 12px;
+}
+
+.layer_pop .pop_inner .pop_line input {
+	border: 1px solid #d6d6d6;
+	color: #000;
+	font-size: 16px;
+	padding: 7px 5px;
+	height: 39px;
+}
+
+.layer_pop .pop_inner .pop_line input:valid {
+	background: #ececec;
+}
+
+.layer_pop .pop_inner .pop_line input:-webkit-autofill, .layer_pop .pop_inner .pop_line input:-webkit-autofill:hover,
+	.layer_pop .pop_inner .pop_line input:-webkit-autofill:focus,
+	.layer_pop .pop_inner .pop_line input:-webkit-autofill:active {
+	transition: background-color 5000s ease-in-out 0s;
+	-webkit-transition: background-color 9999s ease-out;
+	-webkit-box-shadow: 0 0 0px 1000px #ececec inset !important;
+	color: #757575 !important;;
+}
+
+.layer_pop .pop_inner .pop_line .request_btn {
+	display: block;
+	text-align: center;
+	color: #fff;
+	padding: 7px 10px;
+	background-color: #393a6a;
+	float: right;
+	width: 92px;
+	height: 39px;
+}
+
+.layer_pop .pop_inner .pop_line .sms_btn {
+	display: block;
+	text-align: center;
+	color: #393a6a;
+	padding: 8px 10px;
+	border: 1px solid #393a6a;
+	float: right;
+	width: 92px;
+	height: 39px;
+}
+
+.layer_pop .pop_inner .pop_line .notice {
+	color: #ff0000;
+	float: left;
+	padding: 5px 0 0 58px;
+	font-size: 14px;
+}
+
+.layer_pop .pop_inner .submit_btn {
+	clear: both;
+	display: block;
+	color: #fff;
+	background: #2797ff;
+	padding: 10px 37px;
+	text-align: center;
+	font-size: 14px;
+	border-radius: 5px;
+	margin: 15px auto;
+}
+
+@media screen and (max-width:980px) {
+	.layer_pop .pop_inner {
+		left: 50%;
+		margin-left: -200px;
+	}
+}
+
+@media screen and (max-width:400px) {
+	.layer_pop {
+		height: auto;
+		top: 30%;
+	}
+	.layer_pop .pop_inner {
+		left: 0%;
+		width: calc(100% - 20px);
+		margin-left: 10px;
+		height: auto;
+		padding-bottom: 2%;
+	}
+	.layer_pop .pop_inner .tit {
+		font-size: 16px;
+		padding: 20px 0;
+	}
+	.layer_pop .pop_inner .pop_line {
+		padding: 10px 15px 10px;
+	}
+	.layer_pop .pop_inner .pop_line label {
+		font-size: 14px;
+	}
+	.layer_pop .pop_inner .pop_line input {
+		width: 43%;
+		font-size: 14px;
+	}
+	.layer_pop .pop_inner .pop_line .request_btn, .layer_pop .pop_inner .pop_line .sms_btn
+		{
+		width: 33%;
+		font-size: 14px;
+		/* margin-top: 8px; */
+	}
+	.layer_pop .pop_inner .pop_line .notice {
+		padding: 8px 0 0 52px;
+	}
+}
+</style>
+<script type="text/javascript">
+<!--
+//dim height 조절
+function layerPopBg() {
+	var wrapHeight = $(document).outerHeight();
+	$(".dim.on").css("height", (wrapHeight));
+};
+$(window).scroll(function() {
+	layerPopBg();
+});
+
+function fnSelfAuth() {
+	if(!$('.dim').is(':visible')){
+		$('.dim').addClass('on');
+		$('.layer_pop').addClass('on');
+		layerPopBg();
+	} else {
+		$('.dim').removeClass('on');
+		$('.layer_pop').removeClass('on');
+		layerPopBg();
+	}
+}
+
+$(document).ready(function(){
+	layerPopBg();
+
+	var reqSms = false;
+	var checkSms = false;
+	
+	//SMS인증 요청
+	$('#reqSmsBtn').click(function() {
+		if(!_isValidPhoneNo()) {
+			return false;
+		}
+	
+		reqSms = false;
+		checkSms = false;
+		
+		$.ajax({
+			url: '/pororo/selfAuthentication/sms',
+			type: 'POST',
+			data: {},
+			dataType: 'json',
+			async: false,
+			success: function(data) {
+				if(data.CODE=='0000') {
+					$("#msg").html("인증번호를 발송했습니다. SMS인증을 해주세요.");
+					$("#reqSmsBtn").val("발송 완료");
+					$("#reqSmsBtn").addClass("disabled_selfAuthPopup").off("click");
+					$("#keycode").focus();
+					reqSms = true;
+				}
+				else {
+					alert("인증번호 발송을 실패 하였습니다. \n관리자에게 문의 바랍니다.");
+					//alert(data.MSG);
+					reqSms = false;
+				}
+			},
+			error: function() {
+				alert('오류가 발생하였습니다.');
+				reqSms = false;
+			}
+		});
+		
+		return false;
+	});
+	
+	 //OPT 인증
+	$('#checkSmsBtn').click(function() {
+		if(!reqSms) {
+			alert('인증 요청을 해주세요.');
+			return false;
+		}
+		if($('#keycode').val() == '') {
+			alert('인증키를 입력해 주세요.');
+			$('#keycode').focus();
+			return false;
+		}
+		
+		
+		$.ajax({
+			url: '/pororo/selfAuthentication/sms/auth',
+			async: false,
+			type: 'POST',
+			data: {'keycode':$("#keycode").val()},
+			dataType: 'json',
+			success: function(data) {
+				if (data.CODE=='0000') {
+					$('#keycode').addClass("disabled_selfAuthPopup").attr("disabled","disabled");
+					$("#msg").html("인증에 성공하였습니다.");
+					$("#checkSmsBtn").val("인증 성공");
+					$("#checkSmsBtn").addClass("disabled_selfAuthPopup").off("click");
+					checkSms = true;
+				}
+				//SMS 인증번호 발송 실패
+				else if ( data.CODE == '0020' ) {
+					checkSms = false;
+					alert('SMS 번호 발송에 실패 하였습니다.\n다시 시도해 주시기 바랍니다.');
+					$('#keycode').val('');
+				}
+				//SMS 인증번호 틀림
+				else if ( data.CODE == '0030' ) {
+					checkSms = false;
+					alert('SMS번호가 틀렸습니다. 다시한번 확인하여 주십시요.');
+					$('#keycode').val('');
+				}
+				//SMS 인증번호 입력시간 초과
+				else if ( data.CODE == '0031' ) {
+					checkSms = false;
+					alert('입력하신 SMS번호는 입력시간 초과로 사용 할 수 없습니다.\n다시 시도하여 주시기 바랍니다.');
+					$('#keycode').val('');
+				}
+				else if ( data.CODE == '9998' ) {
+					checkSms = false;
+					alert('SMS필수 정보가 누락되었거나 인증키 정보가 없습니다.');
+					$('#keycode').val('');
+				}
+				else {
+					checkSms = false;
+					alert('알 수 없는 오류가 발생 하였습니다.\n오류번호[' + data.CODE + '');
+					$('#keycode').val('');
+				}
+			},
+			error: function() {
+				alert('오류가 발생하였습니다.');
+				checkSms = false;
+			}
+		});
+		
+		return false;
+	});	
+	
+	 //로그인
+	$('#completBtn').click(function() {
+		 
+		if(!checkSms) {
+			alert("SMS인증이 필요합니다.");
+			$('#sms').focus();
+			return false;
+		}
+		//$("#smsFrm").attr("action","/pororo/selfAuthentication/link");
+		$("#smsFrm").submit();
+		
+		return false;
+	});	
+});
+
+//휴대전화번호 검사
+function _isValidPhoneNo() {
+	var cellPhoneNo = jQuery.trim($("#ctn").val());
+	
+	if(cellPhoneNo == "") {
+		alert(''.replaceAll('|||','\n').replaceAll('&nbsp;',' '));
+		return false;
+	}
+	
+	var regExp = /^01([0|1|6|7|8|9]?)-?([0-9]{3,4})-?([0-9]{4})$/;
+	if(!regExp.test(cellPhoneNo)) {
+		alert('휴대폰 번호가 올바르지 않습니다. 관리자에게 문의하여 올바른 휴대폰 번호를 등록해 주세요.');
+		return false;
+	}
+	
+	return true;
+}
+//-->
+</script>
+<form name="smsFrm" id ="smsFrm" method="post">
+<input type="hidden" name="userLevChk"  value="" />
+</form>
+<div class="layer_pop">
+	<div class="pop_inner">
+		<a href="javascript:fnSelfAuth();" class="btn_close">X</a>
+		<p class="tit">본인인증</p>
+		<p class="pop_line">
+			<label>휴대폰</label> <input type="hidden" name="ctn" id="ctn" required="required" value=""> <input type="text" name="readphone" id="readphone" required="required" disabled="disabled" readonly="readonly" style="border: 0px; background-color: white;" value=""> <input type="button" value="인증 요청" id="reqSmsBtn" class="request_btn" />
+		</p>
+		<p class="pop_line">
+			<label for="keycode">인증키</label> <input type="text" name="keycode" id="keycode" required="required"> <input type="button" id="checkSmsBtn" value="SMS 인증" class="sms_btn" /><span id="msg" class="notice"></span>
+		</p>
+		<button id="completBtn" class="submit_btn">확인</button>
+	</div>
+</div>
+<div class="dim"></div>
+<!-- //레이어팝업-->
+<!-- //2022-07-05-->
+<!-- //개인정보취급 본인인증팝업 -->
+
+<!-- 미성년자 부모님 동의 팝업 -->
+<!-- //미성년자 부모님 동의 팝업 -->
+
+<!-- AceCouter -->
+<script type="text/javascript">
+function removeOldCookie(name,domain,path){
+	var d=new Date();
+	d.setTime(d.getTime()-1);
+	document.cookie = name + "=; path="+path+"; doamin="+domain+"; expires="+d.toGMTString(); 
+}
+
+removeOldCookie("GsPID_1","wlog.ebs.co.kr","/");
+removeOldCookie("GsPID_2","wlog.ebs.co.kr","/");
+removeOldCookie("GsPID_3","wlog.ebs.co.kr","/");
+removeOldCookie("GsPID_4","wlog.ebs.co.kr","/");
+removeOldCookie("GsPID_5","wlog.ebs.co.kr","/");
+</script>
+<!-- //AceCouter -->
+
+<!-- nethru -->
+<!-- 넷스루 전체로그 (데이타 스토리) / 2020.01.02 / EBSM20191211128194 -->
+<!-- WISELOG ONLINE TRACKING SCRIPT CODE START -->
+<!-- DO NOT MODIFY THIS SCRIPT CODE. -->
+<!-- COPYRIGHT (C) 1999-2013 NETHRU INC. ALL RIGHTS RESERVED. -->
+<script type="text/javascript">
+			(function() {
+				var hmpId="pororo";
+				var nl = document.createElement('script'); nl.type = 'text/javascript';
+				nl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + document.location.host + '/common/js/wlo.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nl, s);
+				var done = false;
+				nl.onload = nl.onreadystatechange = function() {
+				if ( !done && (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") ) {
+				done = true;
+				if (hmpId == 'jisike' || hmpId == 'bestdoctors' || hmpId == 'docuprime' || hmpId == 'worldtrip' || hmpId == 'lifelongschool'){
+					_n_sid = hmpId+".ebs.co.kr";
+				} else if (hmpId == 'yourliteracy'){
+					_n_sid = "literacy.ebs.co.kr";
+				} else {
+					_n_sid = "home.ebs.co.kr";
+				}
+				_n_uid_cookie = "DS_CIF";
+				n_logging();
+				nl.onload = nl.onreadystatechange = null;
+			}}})();
+			</script>
+		<!-- WISELOG ONLINE TRACKING SCRIPT CODE END --><!-- //nethru -->
+
+<!-- 광고 관련 sns tracker 추가 건 -->
+<!-- 구글애널리틱스 스크립트 삭제 및 구글태그매니저 스크립트 삽입요청 / 2024.01.03 / EBSM20240103164895 -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLRHL9NX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- GA (구글) / 2023.05.15 /  EBSM20230512160430 -->
+<!--
+<script>
+	ga('create', 'UA-96786084-2', 'auto', 'snsTracker');
+	ga('snsTracker.send', 'pageview');
+</script>
+-->
+<!-- DO NOT MODIFY -->
+<!-- ADN, 모비온, 아크로스 스크립트 삭제요청 / 2024.02.14 /  EBSM20240214166095 -->
+<!-- 2020-11-02 트래킹,트레킹 소스 삽입 -->
+<!-- ADN Tracker[공통] start / 2022.05.18 / EBBy20220518153297 -->
+<!-- <script src="//fin.rainbownine.net/js/across_adn_1.0.1.js" type="text/javascript"></script> -->
+<!-- ADN Tracker[공통] end -->
+
+<!-- ADN Tracker[방문자] start / 2022.05.18 / EBBy20220518153297 -->
+<!-- <script type="text/javascript">
+window.addEventListener('load', function() {
+    var across_adn_contain = new fn_across_adn_contain();
+    var across_adn_param = [];
+    across_adn_param = {"ut":"Home","ui":"102609"};
+    across_adn_contain.init(across_adn_param);
+});
+</script> -->
+<!-- ADN Tracker[방문자] end -->
+
+<!-- ADN 크로징 설치  반응형 start / 2022.05.18 / EBBy20220518153297 -->
+<!-- <script type="text/javascript">
+var adn_panel_param = adn_panel_param || [];
+adn_panel_param.push([{
+ ui:'102609',
+ ci:'1026090001',
+ gi:'32407'
+}]);
+</script> -->
+	<!-- <script type="text/javascript" async src="//fin.rainbownine.net/js/adn_closingad_1.1.1.js"></script> -->
+
+<!-- ADN 크로징 설치  반응형 start / 2022.05.18 / EBBy20220518153297 -->
+<!-- <script type="text/javascript">
+var adn_mobile_panel_param = adn_mobile_panel_param || [];
+adn_mobile_panel_param.push([{
+ui:'102609',
+ci:'1026090002',
+gi:'32408'
+}]);
+</script> -->
+<!-- <script type="text/javascript" async src="//fin.rainbownine.net/js/adn_mobile_closingad_1.1.2.js"></script> -->
+
+<!-- Enliple Tracker Start -->
+<!-- <script type="text/javascript">
+(function(a,g,e,n,t){a.enp=a.enp||function(){(a.enp.q=a.enp.q||[]).push(arguments)};n=g.createElement(e);n.async=!0;n.defer=!0;n.src="https://cdn.megadata.co.kr/dist/prod/enp_tracker_self_hosted.min.js";t=g.getElementsByTagName(e)[0];t.parentNode.insertBefore(n,t)})(window,document,"script");
+enp('create', 'common', 'ebsim', { device: 'W' });
+enp('send', 'common', 'ebsim');
+</script> -->
+<!-- Enliple Tracker End -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 536607917 -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-536607917"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-536607917');
+</script> -->
+
+<!-- 공통 적용 스크립트 , 모든 페이지에 노출되도록 설치. 단 전환페이지 설정값보다 항상 하단에 위치해야함 / 2021.12.02 / EBBy20211201148690 -->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"> </script>
+<script type="text/javascript">
+if (!wcs_add) var wcs_add={};
+wcs_add["wa"] = "s_24868b5c33e6";
+if (!_nasa) var _nasa={};
+wcs.inflow();
+wcs_do(_nasa);
+</script>
+
+<!-- 카카오먼트 스크립트 시작 / 2023.05.15 /  EBSM20230512160427 -->
+<script type="text/javascript" charset="UTF-8" src="//t1.daumcdn.net/adfit/static/kp.js"></script>
+<script type="text/javascript">
+      kakaoPixel('5796045570273949620').pageView();
+</script>
+
+<!-- //광고 관련 sns tracker 추가 건 -->
+
+<script type="text/javascript">
+	BHP.UI.Layout.init('009');
+	var layoutCd = '009';
+	BHP.UI.GnbLnb.init('009');
+	if ($("#contents .admin_content").length) {
+		$(".page_grid3").removeClass("page_grid3");
+		$("#contents, .bhp").attr("style", "float:none; display:block; width:770px !important; margin:0 auto; padding:0 100px 30px; background:#fff;");
+		$(".custom_area").next().remove();
+		$(".snb, .aside, .custom_area, .spot_info").remove();
+	}
+</script>
+
+<script type="text/javascript" src="https://www.ebs.co.kr/common/js/special/portal_cloud.js"></script><script type="text/javascript">
+function fnLoginCheck(){
+	BHP.Login.check('N', 'https://www.ebs.co.kr/login');
+}
+$(document).ready(function() {
+	setTimeout("fnLoginCheck()", 1000);
+});
+</script><!-- //footer 끝 --> 
+			
+			</div></div>
+<div id="applinkDiv" style="display:none;">
+</div>
+</body>
+</html>
+	
